@@ -1,1 +1,1 @@
-* [Sl-slider](https://boxing199.github.io/sl-slider/index.html)
+* [Sl-slider](https://vvirk.github.io/sl-slider/index.html)
